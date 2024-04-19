@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-family: "Albert Sans";
         background-color: #818181;
         color:rgb(0, 0, 0);
         padding: 0;
@@ -52,10 +53,11 @@ body {
 
         .nav-title {
           padding: 0px 10px;
+          width: 5vw;
         }
 
         .hero {
-          background-image: url(./img/hero.jpg);
+          background-image: url( /img/hero.jpg);
           margin: 10px;
           background-repeat: no-repeat;
           background-size: cover;
