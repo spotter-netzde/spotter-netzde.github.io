@@ -1,21 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 body {
         font-family: "Albert Sans";
-        background-color: #818181;
-        color:rgb(0, 0, 0);
+        background-color: #ffffff;
+        color:#000000
         padding: 0;
         margin: 0;
     }
       
-      a , li, h1, h2, h3 {
-          color: rgb(224, 224, 224);
+      a , li, h1, h2, h3, p {
+          color: rgb(44, 44, 44);
           transition: color 0.1s ease-out 10ms;
         }
     .header-link {
       text-decoration: none;
+      color: rgb(224, 224, 224);
     }
         a:hover {
-            color: rgb(129, 129, 129);
+            color: rgb(124, 124, 124);
         }
     
         .navbar {
@@ -23,18 +24,16 @@ body {
           margin: 0;
           padding: 10px;
           background-color: #000000;
-        	margin: 10px;
         }
         header {
         position : -webkit-sticky;
         position : -ms-sticky;
         position : sticky;
-        top: 10px;
+        top: 0;
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 30px 10%;
-        border-radius: 10px;
         }
 
         #navtitle {
@@ -83,8 +82,8 @@ body {
           left: 0px;
           bottom: 0px;
           width: 100%;
-          background-color: rgb(0, 0, 0);
-          color: white;
+          background-color: #9c9c9c;
+          color: rgb(0, 0, 0);
           display: flex;
           justify-content: center;
           align-items: center;
