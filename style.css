@@ -68,8 +68,8 @@ header {
   margin: 10px;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 250px;
-  background-position: 0 -135px;
+  height: 35vh;
+  background-position: 0 70%;
   color: #ffffff;
   border-radius: 10px;
 }
