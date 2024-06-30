@@ -1,0 +1,22 @@
+{
+  "name": "spotter-netzde.github.io",
+  "version": "0.0.0",
+  "description": "SND Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hi mom\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spotter-netzde/spotter-netzde.github.io.git"
+  },
+  "keywords": [
+    "homepe"
+  ],
+  "author": "rhldspotter",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/spotter-netzde/spotter-netzde.github.io/issues"
+  },
+  "homepage": "https://github.com/spotter-netzde/spotter-netzde.github.io#readme"
+}
