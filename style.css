@@ -64,7 +64,7 @@ header {
 }
 
 .hero {
-  background-image: url(/img/hero.jpg);
+  background-image: linear-gradient(to left,#58C3FF,#0094FF,#004699);
   background-repeat: no-repeat;
   background-size: cover;
   height: 25vh;
@@ -80,9 +80,7 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: start;
-  background-color: #00000050;
-  background-image: linear-gradient(to right, #00000050, #00000000);
-  padding: 5vw;
+  padding: 7vw;
 }
 
 .footer {
